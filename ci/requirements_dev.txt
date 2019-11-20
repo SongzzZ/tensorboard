@@ -1,0 +1,10 @@
+# Dependencies of TensorBoard used only for testing.
+
+grpcio-testing==1.24.3
+
+# Deps for gfile S3 test
+boto3==1.9.86
+moto==1.3.7
+
+# For building Pip package
+virtualenv==16.7.7
